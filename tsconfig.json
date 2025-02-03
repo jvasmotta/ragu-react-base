@@ -6,6 +6,6 @@
     "declaration": true,
     "strict": true
   },
-  "include": ["src"],
+  "include": ["hooks", "reducers"],
   "exclude": ["node_modules", "tests"]
 }
