@@ -1,6 +1,6 @@
 {
   "name": "ragu-react-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TS React base utility functions package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
