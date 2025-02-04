@@ -4,8 +4,9 @@
     "module": "CommonJS",
     "target": "ES6",
     "declaration": true,
+    "esModuleInterop": true,
     "strict": true
   },
-  "include": ["hooks", "reducers"],
+  "include": ["hooks", "reducers", "utils"],
   "exclude": ["node_modules", "tests"]
 }
